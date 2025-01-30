@@ -3,7 +3,7 @@
 This project aims to understand and apply concepts of linear algebra in data science and machine learning.
 
 ## GitHub Profile
-- 
+- https://github.com/zelihaguven/linear-algebra-data-science-project
 
 ## Description
 This project uses the diabetes dataset to demonstrate data exploration, PCA for dimensionality reduction, and linear regression modeling.
