@@ -1,8 +1,6 @@
  #Linear_Algebra_Data_Science_Project.py
 
-# GitHub: https:
-# Project Repository: 
-
+# Project Repository: https://github.com/zelihaguven/linear-algebra-data-science-project
 
 # Import necessary libraries
 
